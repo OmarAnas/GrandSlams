@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/navigation_home"
+        android:icon="@drawable/ic_home_black_24dp"
+        android:title="@string/title_home" />
+
+    <item
+        android:id="@+id/navigation_ao"
+        android:icon="@drawable/ic_ao_black"
+        android:title="Australian Open" />
+
+    <item
+        android:id="@+id/navigation_rg"
+        android:icon="@drawable/ic_rg_black"
+        android:title="Roland Garros" />
+
+    <item
+        android:id="@+id/navigation_wimbledon"
+        android:icon="@drawable/ic_wimby_black"
+        android:title="Wimbledon" />
+
+    <item
+        android:id="@+id/navigation_uso"
+        android:icon="@drawable/ic_uso_black"
+        android:title="US Open" />
+
+</menu>
